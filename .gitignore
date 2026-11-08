@@ -1,0 +1,4 @@
+work/
+reference_inspection/
+__pycache__/
+*.pyc
